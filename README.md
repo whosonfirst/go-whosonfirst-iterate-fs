@@ -4,7 +4,7 @@ Go package implementing the `go-whosonfirst-iterate/v2` interfaces for iterating
 
 ## Documentation
 
-Documentation is incomplete at this time. For the time being have a look at the [emitter_test.go](emitter_test.go) and [iterator_test](iterator_test.go) tests.
+Documentation is incomplete at this time. For the time being have a look at the [emitter_test.go](emitter_test.go) and [iterator_test.go](iterator_test.go) tests.
 
 ## Important
 
